@@ -1,4 +1,6 @@
-<h1>Conall Murphy's Projects <br/><a href="https://github.com/ShogunCode">GitHub</a> <a href="https://www.linkedin.com/in/conall-murphy-24629a1b9/">LinkedIn</a></h1>
+<a href="https://github.com/ShogunCode">GitHub</a> <a href="https://www.linkedin.com/in/conall-murphy-24629a1b9/">LinkedIn</a></h1>
+
+<h1>Conall Murphy's Projects <br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
