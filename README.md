@@ -13,7 +13,7 @@
 - <b>Python</b>
 
 - <b>Java</b>
-- [Save the Planet Board Game] 
+- [Save the Planet Board Game](https://github.com/ShogunCode/save-the-planet)
 
 <h2> 🤳 Connect with me:</h2>
 
