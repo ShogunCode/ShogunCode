@@ -22,8 +22,6 @@
 [<img align="left" alt="Conall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Conall | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: 
-[youtube]: 
 [instagram]: https://www.instagram.com/murphyconall/
 [linkedin]: https://www.linkedin.com/in/conall-murphy-24629a1b9/
 
