@@ -8,7 +8,7 @@
   - [Reverse Engineer Jet2Holidays Database](https://github.com/ShogunCode/jet2-holiday-database)
   
 - <b>Full Stack Web Development</b>
-  - [MoodSense]
+  - [MoodSense](https://github.com/ShogunCode/mood-sense)
   
 - <b>Python</b>
 
