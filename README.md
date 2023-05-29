@@ -15,6 +15,7 @@
 - <b>Java</b>
   - [Save the Planet Board Game](https://github.com/ShogunCode/save-the-planet)
   - [Reading PSNI CSV File with Location Data](https://github.com/ShogunCode/PSNI-CSV-READ)
+  - [Top Trump Card Game - Assesment Revision](https://github.com/ShogunCode/Top-Trumps-Revision-Exercise)
 
 <h2> 🤳 Connect with me:</h2>
 
