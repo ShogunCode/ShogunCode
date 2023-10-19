@@ -11,6 +11,7 @@
   - [MoodSense - Mood Tracking Website](https://github.com/ShogunCode/mood-sense)
   
 - <b>Python</b>
+  - [Python Quiz Game - Day 17](https://github.com/ShogunCode/Py-Quiz)
 
 - <b>Java</b>
   - [Save the Planet Board Game](https://github.com/ShogunCode/save-the-planet)
@@ -21,15 +22,14 @@
 
 [<img align="left" alt="Conall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Conall | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Conall | Twitter/X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter/X]
+
 
 [instagram]: https://www.instagram.com/murphyconall/
 [linkedin]: https://www.linkedin.com/in/conall-murphy-24629a1b9/
+[twitter/X]: https://twitter.com/Shogun_Code
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
