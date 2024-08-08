@@ -7,7 +7,7 @@
 - <b>MSc Software Development Dissertation</b>
   - [Medulloblastoma Classification Web Application 👨‍🔬](https://github.com/ShogunCode/mbmodel)
 
-- <b>👨‍🎓 MSc Preparation - PSNI Crime Project</b>
+- <b>MSc Preparation - PSNI Crime Project</b>
   - [PSNI Crime Data Project 👮]()
  
 - <b>ML Personal Projects</b>
