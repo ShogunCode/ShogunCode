@@ -8,7 +8,7 @@
   - [Medulloblastoma Classification Web Application 👨‍🔬](https://github.com/ShogunCode/mbmodel)
 
 - <b>MSc Preparation - PSNI Crime Project</b>
-  - [PSNI Crime Data Project 👮]()
+  - [PSNI Crime Data Project 👮](https://github.com/ShogunCode/ML_Model_PSNI_Crime)
  
 - <b>ML Personal Projects</b>
   - [Email Spam Detector With Docker 🐋](https://github.com/ShogunCode/Email-Spam-Detector)
